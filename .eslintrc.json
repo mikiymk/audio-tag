@@ -20,6 +20,7 @@
       "error",
       { "missingExports": false, "unusedExports": true, "ignoreExports": ["src/index.ts"] }
     ],
+    "import/prefer-default-export": "error",
 
     "prettier/prettier": "off"
   }
